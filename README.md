@@ -48,6 +48,14 @@ plt.show()
 ```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/2a8c4392-0781-4c49-b931-0b91e428dc32)
+
+![image](https://github.com/user-attachments/assets/2e069a52-b4d2-4b1a-a429-c249c8d9b527)
+
+![image](https://github.com/user-attachments/assets/55e5373d-eddd-40fe-8d33-f918dbe0dc4d)
+
+![image](https://github.com/user-attachments/assets/3f84f948-7a27-4949-a3d3-30aaa6c0f6a5)
+
 
 ![c9f35260-9acf-4538-89cb-47c5fbd722c2](https://github.com/user-attachments/assets/1816a429-c1a8-4ffe-95e7-3190079fdad1)
 
